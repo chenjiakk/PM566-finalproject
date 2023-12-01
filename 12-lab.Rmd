@@ -1,0 +1,6 @@
+---
+title: "Lab 12"
+author: "Chenjia Kuang"
+date: "2023-12-01"
+output: html_document
+---
